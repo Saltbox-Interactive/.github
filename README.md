@@ -1,4 +1,4 @@
-# D'Hanis-Virtual-Exhibition
+# Discover Old D'Hanis
 
 Discover. Learn. Preserve
 
